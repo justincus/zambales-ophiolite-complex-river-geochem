@@ -33,7 +33,7 @@ The scenario-parameter `.m` file contains blocks intended to be copy-pasted in t
 >*Access the full MEANDIR MATLAB files by Kemeny and Torres here: https://github.com/PrestonCosslettKemeny/MEANDIR*
 
 - `phreeqc/`:
-Contains a PHREEQC input file (`.pqi`), its output (`.pqo`), and tabulated river results (`river\_results.csv`).
+Contains a PHREEQC input file (`.pqi`), its output (`.pqo`), and tabulated river results (`river_results.csv`).
 
 - `other_datasheets/`:
 Contains supporting tables for Southeast Asian Sr data, global weathering comparisons, and ternary-diagram values (Fig. 3a of main manuscript).
