@@ -1,4 +1,3 @@
-Zambales Ophiolite Complex river geochemistry
 Data and analysis files accompanying "Ultramafic weathering in tropical volcanic arcs: Geochemistry and inverse modeling of rivers draining the Zambales Ophiolite Complex (ZOC), Philippines" by Custado, et al.
 ```text
 zambales-ophiolite-complex-river-geochem/
