@@ -1,0 +1,72 @@
+﻿inversion_id,sample_id,season,site,catchment,lat,lon,group
+lawis_river_schopka,PH-07-33,dry,"Lawis River, ds",lawis_river,15.569,120.099,West
+bulsa_river_ds_schopka,PH-07-34,dry,"Bulsa River, ds",bulsa_river_ds,15.452,120.37,East
+camiling_river_us_schopka,PH-07-35,dry,"Camiling River, us",camiling_river_us,15.559,120.37,East
+malabobo_river_schopka,PH-07-36,dry,Cabarabuan River (downstream of Malabobo Impounding Dam),malabobo_river,15.708,120.329,East
+dumoloc_river_schopka,PH-07-37,dry,Dumoloc River,dumoloc_river,15.916,120.199,East
+malabobo_river_schopka,PH-07-39,dry,Mababo River,malabobo_river,15.704,120.3,East
+malabobo_river_schopka,PH-07-40,dry,Mababo River,malabobo_river,15.704,120.3,East
+lawis_river_schopka,PH-08-06,dry,Lawis Tributary I,lawis_river,15.562,120.1,West
+lawis_river_schopka,PH-08-07,dry,Lawis Tributary II,lawis_river,15.571,120.045,West
+bulsa_river_ds_zam22,ZAM-22-01,dry,"Bulsa River, ds",bulsa_river_ds,15.465,120.45,East
+bulsa_river_us_zam22,ZAM-22-02,dry,"Bulsa River, us",bulsa_river_us,15.451796,120.370883,East
+camiling_river_ds_zam22,ZAM-22-04,dry,"Camiling River, ds",camiling_river_ds,15.6151159,120.3758981,East
+malabobo_river_zam22,ZAM-22-05,dry,Malabobo River,malabobo_river,15.7039962,120.3000033,East
+bayaoas_river_zam22,ZAM-22-06,dry,Bayaoas River,bayaoas_river,15.8233306,120.2452802,East
+dumoloc_river_zam22,ZAM-22-07,dry,Dumoloc River,dumoloc_river,15.9184251,120.2020252,East
+mapita_river_zam22,ZAM-22-08,dry,Mapita River ,mapita_river,15.894583,120.205,East
+pmb1_zam22,ZAM-22-09,dry,PMB1,pmb1,15.7532462,119.9367065,PMB
+pmb2_zam22,ZAM-22-10,dry,PMB2,pmb2,15.754385,119.9496498,PMB
+pmb4_zam22,ZAM-22-11,dry,PMB4,pmb4,15.7432731,119.9522123,PMB
+pmb3_zam22,ZAM-22-13,dry,PMB3,pmb3,15.7440789,119.952221,PMB
+sc7_zam22,ZAM-22-16,dry,SC7,sc7,15.7911037,119.9928357,SC
+lawis_river_zam22,ZAM-22-23,dry,Lawis River,lawis_river,15.5842774,119.9509547,West
+masinloc_river_zam22,ZAM-22-24,dry,Masinloc River,masinloc_river,15.5376104,119.9775937,West
+salasa_river_zam22,ZAM-22-25,dry,Salasa River,salasa_river,15.4562751,119.9547225,West
+bagsit_river_zam22,ZAM-22-26,dry,Bagsit River,bagsit_river,15.3856984,119.9611488,West
+bancal_river_zam22,ZAM-22-27,dry,Bancal River,bancal_river,15.3093338,120.000013,West
+bucao_river_zam22,ZAM-22-28,dry,Bucao River,bucao_river,15.2645143,120.0366778,West
+maloma_river_zam22,ZAM-22-30,dry,Maloma River,maloma_river,15.116391,120.0623425,West
+bulsa_river_us_zam23,ZAM-23-02,wet,"Bulsa River, us",bulsa_river_us,15.4524807,120.3689937,East
+camiling_river_ds_zam23,ZAM-23-04,wet,"Camiling River, ds",camiling_river_ds,15.6152163,120.3758317,East
+malabobo_river_zam23,ZAM-23-05,wet,Malabobo River,malabobo_river,15.7025619,120.3188857,East
+bayaoas_river_zam23,ZAM-23-06,wet,Bayaoas River,bayaoas_river,15.8240122,120.2453308,East
+mapita_river_zam23,ZAM-23-07,wet,Mapita River,mapita_river,15.8944941,120.2049455,East
+dumoloc_river_zam23,ZAM-23-08,wet,Dumoloc River,dumoloc_river,15.9198592,120.2037891,East
+pmb1_zam23,ZAM-23-09,wet,PMB1,pmb1,15.752911,119.936233,PMB
+pmb2_zam23,ZAM-23-10,wet,PMB2,pmb2,15.7543672,119.9496039,PMB
+pmb3_zam23,ZAM-23-12,wet,PMB3,pmb3,15.7440789,119.952221,PMB
+pmb4_zam23,ZAM-23-13,wet,PMB4,pmb4,15.7437643,119.9519558,PMB
+sc7_zam23,ZAM-23-16,wet,SC7,sc7,15.791208,119.992492,SC
+sc5_zam23,ZAM-23-17,wet,SC5,sc5,15.7937628,119.9799353,SC
+sc1_zam23,ZAM-23-19,wet,SC1,sc1,15.7783449,119.9374307,SC
+lawis_river_zam23,ZAM-23-20,wet,"Lawis River, ds",lawis_river,15.5841812,119.951061,West
+masinloc_river_zam23,ZAM-23-21,wet,Masinloc River,masinloc_river,15.5377254,119.9774962,West
+salasa_river_zam23,ZAM-23-22,wet,Salasa River,salasa_river,15.4563049,119.9546541,West
+bagsit_river_zam23,ZAM-23-23,wet,Bagsit River,bagsit_river,15.3860058,119.958491,West
+bucao_river_zam23,ZAM-23-25,wet,Bucao River,bucao_river,15.2642558,120.035746,West
+maloma_river_zam23,ZAM-23-27,wet,Maloma River,maloma_river,15.111095,120.0544259,West
+bulsa_river_us_zam24,ZAM-24-02,wet,"Bulsa River, us",bulsa_river_us,15.4528882,120.36835,East
+camiling_river_us_zam24,ZAM-24-03,wet,"Camiling River, us",camiling_river_us,15.556963,120.368291,East
+camiling_river_ds_zam24,ZAM-24-04,wet,"Camiling River, ds",camiling_river_ds,15.615548,120.375457,East
+malabobo_river_zam24,ZAM-24-05,wet,Malabobo River,malabobo_river,15.703993,120.299623,East
+bayaoas_river_zam24,ZAM-24-06,wet,Mangatarem River,bayaoas_river,15.8237531,120.2451525,East
+mapita_river_zam24,ZAM-24-07,wet,Mapita River,mapita_river,15.8944834,120.2050293,East
+dumoloc_river_zam24,ZAM-24-08,wet,Bayaoas River,dumoloc_river,15.9194411,120.2031564,East
+pmb4_zam24,ZAM-24-09,wet,PMB4,pmb4,15.7432418,119.9521657,PMB
+pmb34_zam24,ZAM-24-10,wet,Confluence of PMB3 and PMB4,pmb34,15.744017,119.9520269,PMB
+pmb3_zam24,ZAM-24-11,wet,PMB3,pmb3,15.7439734,119.9522214,PMB
+pmb2_zam24,ZAM-24-12,wet,PMB2,pmb2,15.7543453,119.9497115,PMB
+pmb1_zam24,ZAM-24-13,wet,PMB1,pmb1,15.7530052,119.936175,PMB
+sc6_zam24,ZAM-24-15,wet,SC6,sc6,15.792902,119.9918362,SC
+sc7_zam24,ZAM-24-16,wet,SC7,sc7,15.7925352,119.9910551,SC
+sc4_zam24,ZAM-24-17,wet,SC4,sc4,15.7900949,119.9706186,SC
+sc1_zam24,ZAM-24-18,wet,SC1,sc1,15.772732,119.932947,SC
+lawis_river_zam24,ZAM-24-19,wet,Lawis River,lawis_river,15.5841812,119.951061,West
+masinloc_river_zam24,ZAM-24-20,wet,Masinloc River,masinloc_river,15.5377254,119.9774962,West
+salasa_river_zam24,ZAM-24-21,wet,Salasa River,salasa_river,15.4563049,119.9546541,West
+bagsit_river_zam24,ZAM-24-22,wet,Bagsit River,bagsit_river,15.3860704,119.9614525,West
+bancal_river_zam24,ZAM-24-23,wet,Bancal River,bancal_river,15.3095557,119.9991949,West
+bucao_river_zam24,ZAM-24-24,wet,Bucao River,bucao_river,15.2642558,120.035746,West
+dapya_river_zam24,ZAM-24-25,wet,Dapya River,dapya_river,15.1535767,120.0590209,West
+maloma_river_zam24,ZAM-24-26,wet,Maloma River,maloma_river,15.1088862,120.0534654,West

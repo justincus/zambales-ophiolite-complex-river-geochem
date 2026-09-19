@@ -1,0 +1,1077 @@
+DATABASE C:\Program Files (x86)\USGS\Phreeqc Interactive 3.8.6-17100\database\core10.dat
+SOLUTION 1 ZAM-22-02 Bulsa River, us
+    units     mg/L
+    temp      26.3
+    pH        8.0433333
+    Ca        6.843
+    Na        6.843
+    K         0.803
+    Mg        13.892
+    Al        0.029839
+    Cl        1.28 charge
+    S(6)      7.625 as SO4
+    Si        15.781 as Si
+    -water    1
+
+SOLUTION 2 ZAM-22-03 Camiling River, us
+    units     mg/L
+    temp      27.4
+    pH        7.9
+    Ca        4.935
+    Na        4.935
+    K         0.8775
+    Mg        20.309
+    Al        0.009228
+    Cl        1.895 charge
+    S(6)      5.285 as SO4
+    Si        13.2205 as Si
+    -water    1
+
+SOLUTION 3 ZAM-22-04 Camiling River, ds
+    units     mg/L
+    temp      28.8
+    pH        7.83
+    Ca        5.9375
+    Na        5.9375
+    K         0.811
+    Mg        21.7315
+    Al        0.062264
+    Cl        3.355 charge
+    S(6)      6.395 as SO4
+    Si        12.735 as Si
+    -water    1
+
+SOLUTION 4 ZAM-22-05 Malabobo River
+    units     mg/L
+    temp      30.6
+    pH        8.0933333
+    Ca        5.6825
+    Na        5.6825
+    K         0.7205
+    Mg        17.966
+    Al        0.018508
+    Cl        1.685 charge
+    S(6)      3.53 as SO4
+    Si        14.9155 as Si
+    -water    1
+
+SOLUTION 5 ZAM-22-06 Bayaoas River
+    units     mg/L
+    temp      32.6
+    pH        8.2225
+    Ca        4.971
+    Na        4.971
+    K         0.7175
+    Mg        19.263
+    Al        0.007503
+    Cl        2.335 charge
+    S(6)      3.41 as SO4
+    Si        20.9515 as Si
+    -water    1
+
+SOLUTION 6 ZAM-22-07 Dumoloc River
+    units     mg/L
+    temp      32.8
+    pH        7.9425
+    Ca        8.9575
+    Na        8.9575
+    K         0.8365
+    Mg        19.6645
+    Al        0.001772
+    Cl        2.185 charge
+    S(6)      5.4 as SO4
+    Si        21.6045 as Si
+    -water    1
+
+SOLUTION 7 ZAM-22-08 Mapita River
+    units     mg/L
+    temp      32.3
+    pH        8.0533333
+    Ca        6.8435
+    Na        6.8435
+    K         0.677
+    Mg        20.429
+    Al        0.012631
+    Cl        1.265 charge
+    S(6)      6.14 as SO4
+    Si        23.9555 as Si
+    -water    1
+
+SOLUTION 8 ZAM-22-09 PMB1
+    units     mg/L
+    temp      26.7
+    pH        8.3633333
+    Ca        3.7885
+    Na        3.7885
+    K         0.819
+    Mg        42.928
+    Al        0.011748
+    Cl        3.6 charge
+    S(6)      8.915 as SO4
+    Si        16.7675 as Si
+    -water    1
+
+SOLUTION 9 ZAM-22-10 PMB2
+    units     mg/L
+    temp      25.9
+    pH        8.3166667
+    Ca        3.2685
+    Na        3.2685
+    K         0.737
+    Mg        46.783
+    Al        0.100835
+    Cl        2.945 charge
+    S(6)      8.905 as SO4
+    Si        20.7165 as Si
+    -water    1
+
+SOLUTION 10 ZAM-22-11 PMB4
+    units     mg/L
+    temp      26.6
+    pH        8.73
+    Ca        2.867
+    Na        2.867
+    K         1.0545
+    Mg        43.3275
+    Al        0.043189
+    Cl        3.475 charge
+    S(6)      6.56 as SO4
+    Si        13.229 as Si
+    -water    1
+
+SOLUTION 11 ZAM-22-12 Confluence of PMB3 and PMB4
+    units     mg/L
+    temp      26.4
+    pH        8.5233333
+    Ca        2.5945
+    Na        2.5945
+    K         0.6105
+    Mg        43.6725
+    Al        0.041211
+    Cl        3.215 charge
+    S(6)      5.97 as SO4
+    Si        15.737 as Si
+    -water    1
+
+SOLUTION 12 ZAM-22-13 PMB3
+    units     mg/L
+    temp      25.9
+    pH        9.2633333
+    Ca        2.5175
+    Na        2.5175
+    K         0.623
+    Mg        43.5005
+    Al        0.10828
+    Cl        3.295 charge
+    S(6)      6.015 as SO4
+    Si        18.6425 as Si
+    -water    1
+
+SOLUTION 13 ZAM-22-15 SC1
+    units     mg/L
+    temp      29
+    pH        8.3133333
+    Ca        578.0675
+    Na        578.0675
+    K         20.1465
+    Mg        95.6
+    Al        0.367401
+    Cl        1305.075 charge
+    S(6)      171.3 as SO4
+    Si        15.363 as Si
+    -water    1
+
+SOLUTION 14 ZAM-22-16 SC7
+    units     mg/L
+    temp      30
+    pH        8.0533333
+    Ca        6.033
+    Na        6.033
+    K         0.7245
+    Mg        31.197
+    Al        0.033498
+    Cl        9.355 charge
+    S(6)      2.815 as SO4
+    Si        13.328 as Si
+    -water    1
+
+SOLUTION 15 ZAM-22-17 SC6
+    units     mg/L
+    temp      32.3
+    pH        8.6066667
+    Ca        2.648
+    Na        2.648
+    K         0.645
+    Mg        40.3905
+    Al        0.002246
+    Cl        3.695 charge
+    S(6)      2.67 as SO4
+    Si        15.3505 as Si
+    -water    1
+
+SOLUTION 16 ZAM-22-19 Confluence of SC6 and SC7
+    units     mg/L
+    temp      32.1
+    pH        8.5433333
+    Ca        3.626
+    Na        3.626
+    K         0.668
+    Mg        38.15
+    Al        0
+    Cl        5.55 charge
+    S(6)      2.695 as SO4
+    Si        14.715 as Si
+    -water    1
+
+SOLUTION 17 ZAM-22-20 SC5
+    units     mg/L
+    temp      32.1
+    pH        8.53
+    Ca        4.0115
+    Na        4.0115
+    K         0.7455
+    Mg        40.372
+    Al        0.001035
+    Cl        3.95 charge
+    S(6)      3.495 as SO4
+    Si        16.9835 as Si
+    -water    1
+
+SOLUTION 18 ZAM-22-22 SC4
+    units     mg/L
+    temp      31.1
+    pH        8.4433333
+    Ca        3.9925
+    Na        3.9925
+    K         0.854
+    Mg        40.055
+    Al        0
+    Cl        3.905 charge
+    S(6)      4.425 as SO4
+    Si        16.156 as Si
+    -water    1
+
+SOLUTION 19 ZAM-22-23 Lawis River
+    units     mg/L
+    temp      25.9
+    pH        8.4133333
+    Ca        2.771
+    Na        2.771
+    K         0.6465
+    Mg        24.206
+    Al        0.01368
+    Cl        1.845 charge
+    S(6)      2.875 as SO4
+    Si        13.7045 as Si
+    -water    1
+
+SOLUTION 20 ZAM-22-24 Masinloc River
+    units     mg/L
+    temp      27.1
+    pH        8.14
+    Ca        8.24
+    Na        8.24
+    K         5.495
+    Mg        16.635
+    Al        0.005238
+    Cl        3.3846154 charge
+    S(6)      5.0769231 as SO4
+    Si        11.82 as Si
+    -water    1
+
+SOLUTION 21 ZAM-22-25 Salasa River
+    units     mg/L
+    temp      28.4
+    pH        7.9633333
+    Ca        34.6
+    Na        34.6
+    K         1.7925
+    Mg        24.879
+    Al        0.000152
+    Cl        82.31 charge
+    S(6)      12.695 as SO4
+    Si        11.745 as Si
+    -water    1
+
+SOLUTION 22 ZAM-22-26 Bagsit River
+    units     mg/L
+    temp      29.3
+    pH        7.8233333
+    Ca        2.896
+    Na        2.896
+    K         0.7715
+    Mg        25.1205
+    Al        0.146055
+    Cl        2.095 charge
+    S(6)      3.09 as SO4
+    Si        12.5835 as Si
+    -water    1
+
+SOLUTION 23 ZAM-22-27 Bancal River
+    units     mg/L
+    temp      30.6
+    pH        7.3633333
+    Ca        1314.25
+    Na        1314.25
+    K         289.67
+    Mg        1040.59
+    Al        0.193906
+    Cl        3224.25 charge
+    S(6)      413.25 as SO4
+    Si        109.82 as Si
+    -water    1
+
+SOLUTION 24 ZAM-22-28 Bucao River
+    units     mg/L
+    temp      31.1
+    pH        7.6666667
+    Ca        23.5435
+    Na        23.5435
+    K         3.388
+    Mg        20.6745
+    Al        0.022196
+    Cl        16.905 charge
+    S(6)      103.095 as SO4
+    Si        21.7125 as Si
+    -water    1
+
+SOLUTION 25 ZAM-22-29 Dapya River
+    units     mg/L
+    temp      31
+    pH        7.57
+    Ca        138.615
+    Na        138.615
+    K         5.9335
+    Mg        42.2775
+    Al        0.827723
+    Cl        243.725 charge
+    S(6)      43.85 as SO4
+    Si        18.9315 as Si
+    -water    1
+
+SOLUTION 26 ZAM-22-30 Maloma River
+    units     mg/L
+    temp      32.5
+    pH        7.9133333
+    Ca        7.009
+    Na        7.009
+    K         1.6605
+    Mg        20.914
+    Al        0
+    Cl        3.26 charge
+    S(6)      7.265 as SO4
+    Si        21.376 as Si
+    -water    1
+
+SOLUTION 27 ZAM-23-01 Bulsa River, ds
+    units     mg/L
+    temp      27.92
+    pH        8.28
+    Ca        9.06
+    Na        9.06
+    K         1.159
+    Mg        12.588
+    Al        0
+    Cl        2.97757 charge
+    S(6)      0 as SO4
+    Si        20.138 as Si
+    -water    1
+
+SOLUTION 28 ZAM-23-02 Bulsa River, us
+    units     mg/L
+    temp      27.54
+    pH        8.53
+    Ca        8.157
+    Na        8.157
+    K         0.909
+    Mg        12.8595
+    Al        0.222536
+    Cl        2.03528 charge
+    S(6)      0 as SO4
+    Si        21.0285 as Si
+    -water    1
+
+SOLUTION 29 ZAM-23-03 Camiling River, us
+    units     mg/L
+    temp      27.36
+    pH        8.43
+    Ca        5.023
+    Na        5.023
+    K         0.72
+    Mg        15.617
+    Al        0.055491
+    Cl        1.97429 charge
+    S(6)      0 as SO4
+    Si        17.755 as Si
+    -water    1
+
+SOLUTION 30 ZAM-23-04 Camiling River, ds
+    units     mg/L
+    temp      28.38
+    pH        8.49
+    Ca        5.165
+    Na        5.165
+    K         0.745
+    Mg        16.182
+    Al        0.015865
+    Cl        2.9316 charge
+    S(6)      0 as SO4
+    Si        17.345 as Si
+    -water    1
+
+SOLUTION 31 ZAM-23-05 Malabobo River
+    units     mg/L
+    temp      28.03
+    pH        8.41
+    Ca        4.517
+    Na        4.517
+    K         0.596
+    Mg        12.773
+    Al        0.017179
+    Cl        2.05031 charge
+    S(6)      6.16077 as SO4
+    Si        16.893 as Si
+    -water    1
+
+SOLUTION 32 ZAM-23-06 Bayaoas River
+    units     mg/L
+    temp      29.9
+    pH        8.74
+    Ca        5.241
+    Na        5.241
+    K         0.6175
+    Mg        17.293
+    Al        0.02648
+    Cl        2.95254 charge
+    S(6)      2.01503 as SO4
+    Si        25.833 as Si
+    -water    1
+
+SOLUTION 33 ZAM-23-07 Mapita River
+    units     mg/L
+    temp      30.65
+    pH        8.39
+    Ca        7.964
+    Na        7.964
+    K         0.639
+    Mg        19.382
+    Al        0.030622
+    Cl        2.79776 charge
+    S(6)      1.40278 as SO4
+    Si        29.794 as Si
+    -water    1
+
+SOLUTION 34 ZAM-23-08 Dumoloc River
+    units     mg/L
+    temp      29.66
+    pH        8.34
+    Ca        7.193
+    Na        7.193
+    K         0.804
+    Mg        20.733
+    Al        0.236617
+    Cl        3.9408 charge
+    S(6)      0.09124 as SO4
+    Si        27.357 as Si
+    -water    1
+
+SOLUTION 35 ZAM-23-09 PMB1
+    units     mg/L
+    temp      27.38
+    pH        8.15
+    Ca        4.592
+    Na        4.592
+    K         0.786
+    Mg        40.448
+    Al        0
+    Cl        6.16088 charge
+    S(6)      0.03309 as SO4
+    Si        21.466 as Si
+    -water    1
+
+SOLUTION 36 ZAM-23-10 PMB2
+    units     mg/L
+    temp      27.13
+    pH        8.25
+    Ca        4.089
+    Na        4.089
+    K         1.081
+    Mg        43.694
+    Al        0
+    Cl        5.88911 charge
+    S(6)      0.34496 as SO4
+    Si        26.435 as Si
+    -water    1
+
+SOLUTION 37 ZAM-23-11 Confluence of PMB3 and PMB4
+    units     mg/L
+    temp      27.5
+    pH        8.36
+    Ca        3.878
+    Na        3.878
+    K         0.5615
+    Mg        39.1955
+    Al        0
+    Cl        5.96604 charge
+    S(6)      0 as SO4
+    Si        17.6505 as Si
+    -water    1
+
+SOLUTION 38 ZAM-23-12 PMB3
+    units     mg/L
+    temp      27.08
+    pH        8.45
+    Ca        3.495
+    Na        3.495
+    K         0.588
+    Mg        44.713
+    Al        0
+    Cl        5.60552 charge
+    S(6)      0.07902 as SO4
+    Si        26.847 as Si
+    -water    1
+
+SOLUTION 39 ZAM-23-13 PMB4
+    units     mg/L
+    temp      27.87
+    pH        8.39
+    Ca        4.038
+    Na        4.038
+    K         0.604
+    Mg        39.411
+    Al        0
+    Cl        4.69919 charge
+    S(6)      0 as SO4
+    Si        16.576 as Si
+    -water    1
+
+SOLUTION 40 ZAM-23-14 Confluence of SC6 and SC7
+    units     mg/L
+    temp      33.51
+    pH        8.53
+    Ca        3.1165
+    Na        3.1165
+    K         0.597
+    Mg        36.0945
+    Al        0
+    Cl        2.09173 charge
+    S(6)      0.18236 as SO4
+    Si        21.1405 as Si
+    -water    1
+
+SOLUTION 41 ZAM-23-16 SC7
+    units     mg/L
+    temp      32.29
+    pH        8.53
+    Ca        4.299
+    Na        4.299
+    K         0.547
+    Mg        31.193
+    Al        0.001158
+    Cl        0.70197 charge
+    S(6)      0.01717 as SO4
+    Si        18.452 as Si
+    -water    1
+
+SOLUTION 42 ZAM-23-17 SC5
+    units     mg/L
+    temp      34.4
+    pH        8.56
+    Ca        3.789
+    Na        3.789
+    K         0.687
+    Mg        36.484
+    Al        0
+    Cl        0.98238 charge
+    S(6)      0.01754 as SO4
+    Si        21.16 as Si
+    -water    1
+
+SOLUTION 43 ZAM-23-18 SC4
+    units     mg/L
+    temp      33.92
+    pH        8.37
+    Ca        4.205
+    Na        4.205
+    K         0.744
+    Mg        39.036
+    Al        0.371672
+    Cl        0.41746 charge
+    S(6)      0.01457 as SO4
+    Si        22.242 as Si
+    -water    1
+
+SOLUTION 44 ZAM-23-19 SC1
+    units     mg/L
+    temp      30.5
+    pH        8.17
+    Ca        130.868
+    Na        130.868
+    K         2.144
+    Mg        47.512
+    Al        0.303652
+    Cl        3.8195 charge
+    S(6)      0 as SO4
+    Si        16.058 as Si
+    -water    1
+
+SOLUTION 45 ZAM-23-20 Lawis River, ds
+    units     mg/L
+    temp      26.6
+    pH        8.27
+    Ca        3.486
+    Na        3.486
+    K         0.586
+    Mg        20.402
+    Al        0.005191
+    Cl        27.48531 charge
+    S(6)      0 as SO4
+    Si        17.346 as Si
+    -water    1
+
+SOLUTION 46 ZAM-23-21 Masinloc River
+    units     mg/L
+    temp      26.9
+    pH        8.66
+    Ca        3.692
+    Na        3.692
+    K         0.6045
+    Mg        15.633
+    Al        0
+    Cl        26.4254 charge
+    S(6)      0 as SO4
+    Si        14.7185 as Si
+    -water    1
+
+SOLUTION 47 ZAM-23-22 Salasa River
+    units     mg/L
+    temp      26.3
+    pH        7.89
+    Ca        4.459
+    Na        4.459
+    K         0.721
+    Mg        12.183
+    Al        0
+    Cl        3.0138 charge
+    S(6)      4.5052 as SO4
+    Si        11.312 as Si
+    -water    1
+
+SOLUTION 48 ZAM-23-24 Bancal River
+    units     mg/L
+    temp      27.66
+    pH        7.9
+    Ca        176.755
+    Na        176.755
+    K         0.969
+    Mg        35.202
+    Al        0
+    Cl        1173.55 charge
+    S(6)      0 as SO4
+    Si        2.667 as Si
+    -water    1
+
+SOLUTION 49 ZAM-23-25 Bucao River
+    units     mg/L
+    temp      31.13
+    pH        8.38
+    Ca        12.916
+    Na        12.916
+    K         1.748
+    Mg        18.459
+    Al        0.024758
+    Cl        107.2484 charge
+    S(6)      0 as SO4
+    Si        20.6895 as Si
+    -water    1
+
+SOLUTION 50 ZAM-23-26 Dapya River
+    units     mg/L
+    temp      28.92
+    pH        8.11
+    Ca        2.027
+    Na        2.027
+    K         0.6
+    Mg        17.139
+    Al        0.007997
+    Cl        7.6888 charge
+    S(6)      0 as SO4
+    Si        14.403 as Si
+    -water    1
+
+SOLUTION 51 ZAM-23-27 Maloma River
+    units     mg/L
+    temp      31.87
+    pH        7.71
+    Ca        6.546
+    Na        6.546
+    K         1.388
+    Mg        16.668
+    Al        0.055
+    Cl        3.2416 charge
+    S(6)      0 as SO4
+    Si        21.464 as Si
+    -water    1
+
+SOLUTION 52 ZAM-24-01 Bulsa River, ds
+    units     mg/L
+    temp      27.01
+    pH        8.06
+    Ca        6.7787848
+    Na        6.7787848
+    K         0.57515031
+    Mg        12.613225
+    Al        0.018752
+    Cl        1.3424 charge
+    S(6)      2.7355 as SO4
+    Si        18.623181 as Si
+    -water    1
+
+SOLUTION 53 ZAM-24-02 Bulsa River, us
+    units     mg/L
+    temp      26.32
+    pH        8.19
+    Ca        6.0594344
+    Na        6.0594344
+    K         0.39300147
+    Mg        12.147501
+    Al        0.008916
+    Cl        1.2013 charge
+    S(6)      2.7096 as SO4
+    Si        17.985307 as Si
+    -water    1
+
+SOLUTION 54 ZAM-24-03 Camiling River, us
+    units     mg/L
+    temp      27.6
+    pH        8.54
+    Ca        3.8879385
+    Na        3.8879385
+    K         0.29016064
+    Mg        17.099947
+    Al        0.092042
+    Cl        1.1127 charge
+    S(6)      2.0182 as SO4
+    Si        15.899945 as Si
+    -water    1
+
+SOLUTION 55 ZAM-24-04 Camiling River, ds
+    units     mg/L
+    temp      28.66
+    pH        8.63
+    Ca        3.6444214
+    Na        3.6444214
+    K         0.44002002
+    Mg        17.95374
+    Al        0.049827
+    Cl        1.492 charge
+    S(6)      1.8266 as SO4
+    Si        15.510975 as Si
+    -water    1
+
+SOLUTION 56 ZAM-24-05 Malabobo River
+    units     mg/L
+    temp      29
+    pH        8.4
+    Ca        2.8933925
+    Na        2.8933925
+    K         0.16672707
+    Mg        15.396383
+    Al        0.005153
+    Cl        1.4436 charge
+    S(6)      0.9663 as SO4
+    Si        15.950515 as Si
+    -water    1
+
+SOLUTION 57 ZAM-24-06 Mangatarem River
+    units     mg/L
+    temp      32.15
+    pH        8.46
+    Ca        4.4538368
+    Na        4.4538368
+    K         0.18934063
+    Mg        22.149772
+    Al        0.015926
+    Cl        1.5123 charge
+    S(6)      0.8992 as SO4
+    Si        25.922305 as Si
+    -water    1
+
+SOLUTION 58 ZAM-24-07 Mapita River
+    units     mg/L
+    temp      33.49
+    pH        8.38
+    Ca        6.0357216
+    Na        6.0357216
+    K         0.16869328
+    Mg        21.792813
+    Al        0.010978
+    Cl        1.6052 charge
+    S(6)      3.6786 as SO4
+    Si        29.581466 as Si
+    -water    1
+
+SOLUTION 59 ZAM-24-08 Bayaoas River
+    units     mg/L
+    temp      31
+    pH        8.04
+    Ca        6.2564043
+    Na        6.2564043
+    K         0.75590335
+    Mg        24.380697
+    Al        0.084733
+    Cl        2.3432 charge
+    S(6)      2.9813 as SO4
+    Si        26.45807 as Si
+    -water    1
+
+SOLUTION 60 ZAM-24-09 PMB4
+    units     mg/L
+    temp      30.63
+    pH        7.94
+    Ca        2.3062599
+    Na        2.3062599
+    K         0.019620778
+    Mg        59.327158
+    Al        0.010828
+    Cl        2.0953 charge
+    S(6)      3.9436 as SO4
+    Si        18.729881 as Si
+    -water    1
+
+SOLUTION 61 ZAM-24-10 Confluence of PMB3 and PMB4
+    units     mg/L
+    temp      29.9
+    pH        7.77
+    Ca        1.9816756
+    Na        1.9816756
+    K         0.12647907
+    Mg        54.827384
+    Al        0.007153
+    Cl        2.4007 charge
+    S(6)      4.8649 as SO4
+    Si        22.543326 as Si
+    -water    1
+
+SOLUTION 62 ZAM-24-11 PMB3
+    units     mg/L
+    temp      29.26
+    pH        7.68
+    Ca        1.7435807
+    Na        1.7435807
+    K         0.12667946
+    Mg        53.941951
+    Al        0.006109
+    Cl        2.6899 charge
+    S(6)      5.4522 as SO4
+    Si        26.303099 as Si
+    -water    1
+
+SOLUTION 63 ZAM-24-12 PMB2
+    units     mg/L
+    temp      29.22
+    pH        7.65
+    Ca        2.5656771
+    Na        2.5656771
+    K         0.30400484
+    Mg        54.830123
+    Al        0.009517
+    Cl        1.3972 charge
+    S(6)      5.2828 as SO4
+    Si        27.951857 as Si
+    -water    1
+
+SOLUTION 64 ZAM-24-13 PMB1
+    units     mg/L
+    temp      31.25
+    pH        7.58
+    Ca        2.9629709
+    Na        2.9629709
+    K         0.34025525
+    Mg        50.94192
+    Al        0.010642
+    Cl        3.1048 charge
+    S(6)      9.3889 as SO4
+    Si        21.597073 as Si
+    -water    1
+
+SOLUTION 65 ZAM-24-15 SC6
+    units     mg/L
+    temp      29.35
+    pH        8.59
+    Ca        2.6469219
+    Na        2.6469219
+    K         0.13101583
+    Mg        39.155435
+    Al        0.003989
+    Cl        2.9626 charge
+    S(6)      2.1716 as SO4
+    Si        18.142577 as Si
+    -water    1
+
+SOLUTION 66 ZAM-24-16 SC7
+    units     mg/L
+    temp      29.7
+    pH        8.71
+    Ca        1.3146478
+    Na        1.3146478
+    K         0.10828654
+    Mg        41.646037
+    Al        0.003762
+    Cl        1.7911 charge
+    S(6)      1.2103 as SO4
+    Si        20.508672 as Si
+    -water    1
+
+SOLUTION 67 ZAM-24-17 SC4
+    units     mg/L
+    temp      30.87
+    pH        8.57
+    Ca        2.5605959
+    Na        2.5605959
+    K         0.34895254
+    Mg        40.467761
+    Al        0.007541
+    Cl        2.8806 charge
+    S(6)      2.505 as SO4
+    Si        19.142105 as Si
+    -water    1
+
+SOLUTION 68 ZAM-24-18 SC1
+    units     mg/L
+    temp      30.44
+    pH        7.81
+    Ca        557.42315
+    Na        557.42315
+    K         21.012576
+    Mg        93.118545
+    Al        0.129937
+    Cl        383.3969 charge
+    S(6)      82.0528 as SO4
+    Si        15.326313 as Si
+    -water    1
+
+SOLUTION 69 ZAM-24-19 Lawis River
+    units     mg/L
+    temp      29.23
+    pH        8.55
+    Ca        1.5693048
+    Na        1.5693048
+    K         0.10660976
+    Mg        23.005274
+    Al        0.031809
+    Cl        2.452 charge
+    S(6)      0.8036 as SO4
+    Si        16.106612 as Si
+    -water    1
+
+SOLUTION 70 ZAM-24-20 Masinloc River
+    units     mg/L
+    temp      26.44
+    pH        8.66
+    Ca        1.8986003
+    Na        1.8986003
+    K         0.18904752
+    Mg        19.13841
+    Al        0.003803
+    Cl        1.5556 charge
+    S(6)      1.4966 as SO4
+    Si        14.603772 as Si
+    -water    1
+
+SOLUTION 71 ZAM-24-21 Salasa River
+    units     mg/L
+    temp      25.61
+    pH        8.11
+    Ca        2.5936293
+    Na        2.5936293
+    K         0.16179862
+    Mg        14.185436
+    Al        0.00322
+    Cl        3.1472 charge
+    S(6)      1.1495 as SO4
+    Si        11.019903 as Si
+    -water    1
+
+SOLUTION 72 ZAM-24-22 Bagsit River
+    units     mg/L
+    temp      26.48
+    pH        8.2
+    Ca        1.1707687
+    Na        1.1707687
+    K         0.084828642
+    Mg        17.776229
+    Al        0.03116
+    Cl        0.887 charge
+    S(6)      0 as SO4
+    Si        11.884048 as Si
+    -water    1
+
+SOLUTION 73 ZAM-24-23 Bancal River
+    units     mg/L
+    temp      25
+    pH        7.955
+    Ca        96.955431
+    Na        96.955431
+    K         3.4469809
+    Mg        33.062678
+    Al        0.032155
+    Cl        50.9455 charge
+    S(6)      10.2477 as SO4
+    Si        15.853791 as Si
+    -water    1
+
+SOLUTION 74 ZAM-24-24 Bucao River
+    units     mg/L
+    temp      36.03
+    pH        8.5033333
+    Ca        12.562051
+    Na        12.562051
+    K         1.8872423
+    Mg        24.822619
+    Al        0.097236
+    Cl        5.6843 charge
+    S(6)      61.2439 as SO4
+    Si        20.047852 as Si
+    -water    1
+
+SOLUTION 75 ZAM-24-25 Dapya River
+    units     mg/L
+    temp      29.9
+    pH        8.15
+    Ca        2.3706377
+    Na        2.3706377
+    K         0.15785384
+    Mg        25.55092
+    Al        0.005713
+    Cl        1.5894 charge
+    S(6)      1.0308 as SO4
+    Si        18.938936 as Si
+    -water    1
+
+SOLUTION 76 ZAM-24-26 Maloma River
+    units     mg/L
+    temp      33.25
+    pH        8.09
+    Ca        8.0508712
+    Na        8.0508712
+    K         1.0785746
+    Mg        20.984219
+    Al        0.052705
+    Cl        4.9111 charge
+    S(6)      3.2946 as SO4
+    Si        22.657536 as Si
+    -water    1
+
+SELECTED_OUTPUT
+    -file                 river_results.csv
+    -reset                false
+    -high_precision       true
+    -simulation           true
+    -state                true
+    -solution             true
+    -pH                   true
+    -temperature          true
+    -ionic_strength       true
+    -activities           Mg+2 SiO2 Ca+2 Al+3 Na+ K+ Cl- SO4-2
+    -saturation_indices   Talc Chrysotile Lizardite Antigorite Albite Anorthite K-Feldspar Saponite-Mg-Mg Saponite-Mg-Ca Saponite-Mg-Na Brucite Quartz Kaolinite Montmor-Ca Montmor-Mg Montmor-Na Clinochlore-14A SiO2(am)
